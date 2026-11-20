@@ -1,4 +1,4 @@
-""" Project Title: Multi-Sport Tournament & Athlete Performance Analysis Using Python
+""" Project: SPORTS PERFORMANCE ANALYSIS USING Python,NumPy and Pandas
 1. Aim
 To design and implement a Python-based data analytics system that generates structured multi-sport datasets, evaluates athlete and team performance across five sports using Pandas and NumPy, and visualizes key metrics through custom terminal-based bar charts.
 2. Tools & Libraries Used
